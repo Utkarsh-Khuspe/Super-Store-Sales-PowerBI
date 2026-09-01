@@ -70,6 +70,6 @@ Use the slicers and visualizations to explore the dashboard.
 
 8.Screenshots / Demos 
 Shows what the Dashboard look's like 
-Example 
+Example https://github.com/Utkarsh-Khuspe/Super-Store-Sales-PowerBI/blob/main/Snapshot%20of%20dashboard.png
 
-Data Analytics | Business Intelligence | Power BI
+
